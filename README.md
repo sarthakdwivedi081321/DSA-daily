@@ -12,4 +12,12 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2249-count-the-hidden-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
