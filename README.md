@@ -15,6 +15,7 @@ It's all all about practising dsa daily.
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
 | [2249-count-the-hidden-sequences](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2249-count-the-hidden-sequences) |
@@ -39,4 +40,20 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
