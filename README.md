@@ -15,6 +15,7 @@ It's all all about practising dsa daily.
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
 | [2249-count-the-hidden-sequences](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2249-count-the-hidden-sequences) |
 ## Prefix Sum
 |  |
@@ -28,4 +29,12 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
