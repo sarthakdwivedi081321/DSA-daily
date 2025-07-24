@@ -20,4 +20,12 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2249-count-the-hidden-sequences) |
+## String
+|  |
+| ------- |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+## Greedy
+|  |
+| ------- |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 <!---LeetCode Topics End-->
