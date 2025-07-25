@@ -8,6 +8,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0069-sqrtx) |
+| [0319-bulb-switcher](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0319-bulb-switcher) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,8 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
