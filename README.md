@@ -29,6 +29,7 @@ It's all all about practising dsa daily.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Greedy
 |  |
@@ -38,6 +39,7 @@ It's all all about practising dsa daily.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
@@ -70,5 +72,6 @@ It's all all about practising dsa daily.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
