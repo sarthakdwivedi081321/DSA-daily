@@ -24,6 +24,7 @@ It's all all about practising dsa daily.
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [2249-count-the-hidden-sequences](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2249-count-the-hidden-sequences) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -42,6 +43,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
+| [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Hash Table
@@ -61,6 +63,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
+| [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +88,7 @@ It's all all about practising dsa daily.
 ## Sorting
 |  |
 | ------- |
+| [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Segment Tree
 |  |
