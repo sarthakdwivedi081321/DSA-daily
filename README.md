@@ -102,4 +102,12 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3790-fruits-into-baskets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
