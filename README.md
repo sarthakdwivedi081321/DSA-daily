@@ -8,6 +8,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0319-bulb-switcher) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ It's all all about practising dsa daily.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0231-power-of-two) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sliding Window
 |  |
@@ -110,4 +112,5 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
