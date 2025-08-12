@@ -27,6 +27,7 @@ It's all all about practising dsa daily.
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2249-count-the-hidden-sequences](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2249-count-the-hidden-sequences) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
@@ -69,6 +70,7 @@ It's all all about practising dsa daily.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +93,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sorting
