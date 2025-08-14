@@ -44,6 +44,7 @@ It's all all about practising dsa daily.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
 | ------- |
