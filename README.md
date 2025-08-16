@@ -14,6 +14,7 @@ It's all all about practising dsa daily.
 | [0326-power-of-three](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
+| [1448-maximum-69-number](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2469-longest-subsequence-with-limited-sum) |
