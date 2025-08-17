@@ -29,6 +29,7 @@ It's all all about practising dsa daily.
 | [0001-two-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0204-count-primes) |
@@ -95,6 +96,7 @@ It's all all about practising dsa daily.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0342-power-of-four) |
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
@@ -149,4 +151,8 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
