@@ -26,6 +26,7 @@ It's all all about practising dsa daily.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
@@ -60,6 +61,7 @@ It's all all about practising dsa daily.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
 | [0900-reordered-power-of-2](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0900-reordered-power-of-2) |
