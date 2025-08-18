@@ -33,6 +33,7 @@ It's all all about practising dsa daily.
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0204-count-primes) |
+| [0413-arithmetic-slices](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0413-arithmetic-slices) |
 | [1138-grumpy-bookstore-owner](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1138-grumpy-bookstore-owner) |
 | [1206-corporate-flight-bookings](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1206-corporate-flight-bookings) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
@@ -83,6 +84,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
+| [0413-arithmetic-slices](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0413-arithmetic-slices) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
@@ -109,6 +111,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0413-arithmetic-slices) |
 | [1138-grumpy-bookstore-owner](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1138-grumpy-bookstore-owner) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
