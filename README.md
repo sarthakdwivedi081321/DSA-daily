@@ -132,6 +132,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
