@@ -47,6 +47,7 @@ It's all all about practising dsa daily.
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -124,6 +125,7 @@ It's all all about practising dsa daily.
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
