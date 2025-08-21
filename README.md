@@ -38,6 +38,7 @@ It's all all about practising dsa daily.
 | [0413-arithmetic-slices](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0413-arithmetic-slices) |
 | [1138-grumpy-bookstore-owner](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1138-grumpy-bookstore-owner) |
 | [1206-corporate-flight-bookings](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1206-corporate-flight-bookings) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -81,6 +82,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ It's all all about practising dsa daily.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
 | [0413-arithmetic-slices](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0413-arithmetic-slices) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
