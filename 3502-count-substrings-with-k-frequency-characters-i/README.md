@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i">Count Substrings With K-Frequency Characters I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given a string <code>s</code> and an integer <code>k</code>, return the total number of <span data-keyword="substring-nonempty">substrings</span> of <code>s</code> where <strong>at least one</strong> character appears <strong>at least</strong> <code>k</code> times.</p>
+<h2><a href="https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i">3502. Count Substrings With K-Frequency Characters I</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code> and an integer <code>k</code>, return the total number of <span data-keyword="substring-nonempty">substrings</span> of <code>s</code> where <strong>at least one</strong> character appears <strong>at least</strong> <code>k</code> times.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
