@@ -8,6 +8,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0319-bulb-switcher) |
@@ -103,6 +104,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0070-climbing-stairs) |
 | [0413-arithmetic-slices](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0413-arithmetic-slices) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
@@ -192,4 +194,8 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
