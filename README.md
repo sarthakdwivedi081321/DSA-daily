@@ -53,6 +53,7 @@ It's all all about practising dsa daily.
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3790-fruits-into-baskets-ii) |
