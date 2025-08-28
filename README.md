@@ -162,6 +162,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0498-diagonal-traverse) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -174,6 +175,7 @@ It's all all about practising dsa daily.
 | [0237-delete-node-in-a-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
