@@ -39,6 +39,7 @@ It's all all about practising dsa daily.
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0204-count-primes) |
+| [0260-single-number-iii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0260-single-number-iii) |
 | [0413-arithmetic-slices](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0413-arithmetic-slices) |
 | [0498-diagonal-traverse](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0498-diagonal-traverse) |
 | [1138-grumpy-bookstore-owner](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1138-grumpy-bookstore-owner) |
@@ -136,6 +137,7 @@ It's all all about practising dsa daily.
 | ------- |
 | [0078-subsets](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0342-power-of-four) |
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
