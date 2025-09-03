@@ -92,6 +92,7 @@ It's all all about practising dsa daily.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0141-linked-list-cycle) |
 | [0900-reordered-power-of-2](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0900-reordered-power-of-2) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -109,6 +110,7 @@ It's all all about practising dsa daily.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -184,6 +186,7 @@ It's all all about practising dsa daily.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0328-odd-even-linked-list) |
