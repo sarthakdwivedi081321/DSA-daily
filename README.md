@@ -136,6 +136,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0319-bulb-switcher) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +146,7 @@ It's all all about practising dsa daily.
 | [0342-power-of-four](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0342-power-of-four) |
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -210,6 +212,7 @@ It's all all about practising dsa daily.
 | ------- |
 | [0204-count-primes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Number Theory
 |  |
 | ------- |
