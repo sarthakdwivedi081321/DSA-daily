@@ -227,4 +227,8 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
