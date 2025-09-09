@@ -233,4 +233,5 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [1827-invalid-tweets](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
