@@ -18,6 +18,7 @@ It's all all about practising dsa daily.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Binary Search
@@ -126,6 +127,7 @@ It's all all about practising dsa daily.
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Stack
 |  |
 | ------- |
