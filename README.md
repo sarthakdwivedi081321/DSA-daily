@@ -235,6 +235,7 @@ It's all all about practising dsa daily.
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1258-article-views-i) |
