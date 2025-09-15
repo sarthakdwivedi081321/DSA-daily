@@ -78,6 +78,7 @@ It's all all about practising dsa daily.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0049-group-anagrams) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3462-vowels-game-in-a-string) |
@@ -99,6 +100,7 @@ It's all all about practising dsa daily.
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0141-linked-list-cycle) |
 | [0900-reordered-power-of-2](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0900-reordered-power-of-2) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
