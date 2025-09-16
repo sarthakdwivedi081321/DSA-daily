@@ -244,6 +244,7 @@ It's all all about practising dsa daily.
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0620-not-boring-movies) |
+| [1155-product-sales-analysis-iii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1155-product-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
