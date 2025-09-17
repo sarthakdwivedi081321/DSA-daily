@@ -15,6 +15,7 @@ It's all all about practising dsa daily.
 | [0326-power-of-three](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0900-reordered-power-of-2) |
+| [1362-airplane-seat-assignment-probability](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1362-airplane-seat-assignment-probability) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -129,6 +130,7 @@ It's all all about practising dsa daily.
 | [0070-climbing-stairs](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0118-pascals-triangle) |
 | [0413-arithmetic-slices](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0413-arithmetic-slices) |
+| [1362-airplane-seat-assignment-probability](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1362-airplane-seat-assignment-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -146,6 +148,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0319-bulb-switcher) |
+| [1362-airplane-seat-assignment-probability](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1362-airplane-seat-assignment-probability) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
@@ -256,4 +259,8 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3462-vowels-game-in-a-string) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
