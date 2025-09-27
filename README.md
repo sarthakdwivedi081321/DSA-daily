@@ -15,6 +15,7 @@ It's all all about practising dsa daily.
 | [0326-power-of-three](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1018-largest-perimeter-triangle) |
 | [1362-airplane-seat-assignment-probability](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1362-airplane-seat-assignment-probability) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1448-maximum-69-number) |
@@ -46,6 +47,7 @@ It's all all about practising dsa daily.
 | [0260-single-number-iii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0260-single-number-iii) |
 | [0413-arithmetic-slices](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0413-arithmetic-slices) |
 | [0498-diagonal-traverse](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0498-diagonal-traverse) |
+| [1018-largest-perimeter-triangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1018-largest-perimeter-triangle) |
 | [1138-grumpy-bookstore-owner](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1138-grumpy-bookstore-owner) |
 | [1206-corporate-flight-bookings](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1206-corporate-flight-bookings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -88,6 +90,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
+| [1018-largest-perimeter-triangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2345-minimum-number-of-operations-to-convert-time) |
@@ -181,6 +184,7 @@ It's all all about practising dsa daily.
 | ------- |
 | [0049-group-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0049-group-anagrams) |
 | [0900-reordered-power-of-2](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1018-largest-perimeter-triangle) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Segment Tree
