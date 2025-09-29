@@ -255,6 +255,7 @@ It's all all about practising dsa daily.
 | [1155-product-sales-analysis-iii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1155-product-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1390-average-selling-price) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1827-invalid-tweets) |
