@@ -21,6 +21,7 @@ It's all all about practising dsa daily.
 | [1448-maximum-69-number](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3462-vowels-game-in-a-string) |
@@ -58,6 +59,7 @@ It's all all about practising dsa daily.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -196,6 +198,7 @@ It's all all about practising dsa daily.
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0498-diagonal-traverse) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -270,4 +273,8 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1362-airplane-seat-assignment-probability) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
