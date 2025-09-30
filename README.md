@@ -261,6 +261,7 @@ It's all all about practising dsa daily.
 | [1462-list-the-products-ordered-in-a-period](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1811-fix-names-in-a-table](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2127-employees-whose-manager-left-the-company) |
