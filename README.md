@@ -25,6 +25,7 @@ It's all all about practising dsa daily.
 | [2324-find-triangular-sum-of-an-array](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
@@ -201,6 +202,7 @@ It's all all about practising dsa daily.
 | [1642-water-bottles](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
