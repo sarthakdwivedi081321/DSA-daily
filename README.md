@@ -39,6 +39,7 @@ It's all all about practising dsa daily.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0073-set-matrix-zeroes) |
@@ -93,6 +94,7 @@ It's all all about practising dsa daily.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0135-candy) |
 | [1018-largest-perimeter-triangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1448-maximum-69-number) |
@@ -123,6 +125,7 @@ It's all all about practising dsa daily.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
