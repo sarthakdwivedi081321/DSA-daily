@@ -54,6 +54,7 @@ It's all all about practising dsa daily.
 | [1018-largest-perimeter-triangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1018-largest-perimeter-triangle) |
 | [1138-grumpy-bookstore-owner](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1138-grumpy-bookstore-owner) |
 | [1206-corporate-flight-bookings](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1206-corporate-flight-bookings) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
@@ -87,6 +88,7 @@ It's all all about practising dsa daily.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0049-group-anagrams) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3462-vowels-game-in-a-string) |
@@ -112,6 +114,7 @@ It's all all about practising dsa daily.
 | [0160-intersection-of-two-linked-lists](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0900-reordered-power-of-2](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
@@ -192,6 +195,7 @@ It's all all about practising dsa daily.
 | [0049-group-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0049-group-anagrams) |
 | [0900-reordered-power-of-2](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1503-reducing-dishes](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Segment Tree
