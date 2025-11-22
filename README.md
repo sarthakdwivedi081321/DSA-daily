@@ -24,6 +24,7 @@ It's all all about practising dsa daily.
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3462-vowels-game-in-a-string) |
@@ -69,6 +70,7 @@ It's all all about practising dsa daily.
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
