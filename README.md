@@ -28,6 +28,7 @@ It's all all about practising dsa daily.
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ It's all all about practising dsa daily.
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/3790-fruits-into-baskets-ii) |
