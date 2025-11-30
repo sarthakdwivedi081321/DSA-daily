@@ -54,6 +54,7 @@ It's all all about practising dsa daily.
 | [0413-arithmetic-slices](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0413-arithmetic-slices) |
 | [0498-diagonal-traverse](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0498-diagonal-traverse) |
 | [1018-largest-perimeter-triangle](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1138-grumpy-bookstore-owner](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1138-grumpy-bookstore-owner) |
 | [1206-corporate-flight-bookings](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1206-corporate-flight-bookings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -176,6 +177,7 @@ It's all all about practising dsa daily.
 | [0231-power-of-two](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2478-longest-nice-subarray](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sarthakdwivedi081321/DSA-daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
